@@ -33,7 +33,7 @@ Grade: B
 - **Advance Sales Analysis using Power BI**: Leveraged Power BI for detailed sales analysis to support strategic planning.  
 - **Data Exploration of COVID-19 using SQL**: Conducted a thorough exploration of COVID-19 data, analyzing trends and insights using SQL Server.
 
-📧 [m.adnananwar410@gmail.com](mailto:m.adnananwar410@gmail.com) | 📱 +923224880476  
+📧 [m.adnananwar410@gmail.com](mailto:m.adnananwar410@gmail.com) | 
 🔗 [LinkedIn](https://www.linkedin.com/in/hafiz76/) | 🔗 [GitHub](https://github.com/Muhammad-Adnan76)
 
 ---
