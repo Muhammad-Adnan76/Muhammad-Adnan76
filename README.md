@@ -1,6 +1,4 @@
-Sure! Here's a polished paragraph summarizing your experience, education, and skills, along with the inclusion of relevant icons for a professional touch:
 
----
 
 **Muhammad Adnan**  
 **Data Analyst**  
