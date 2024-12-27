@@ -3,7 +3,7 @@
 **Muhammad Adnan**  
 **Data Analyst**  
 
-I am an experienced data analyst with over a year of hands-on experience in data science and analytics, I have completed a Bachelor's degree in Computer Science. My expertise lies in data analysis, visualization, BI development, and statistical analysis. I have a proven track record in customer behavior analysis and machine learning, specializing in deriving actionable insights to optimize business strategies.
+I am an experienced data analyst with over a year of hands-on experience in data science and analytics, I have completed a Bachelor's degree in Computer Science. My expertise lies in data analysis, visualization, BI development, and statistical analysis.
 
 📊 **Current Role**: Data Analyst/BI Developer at Kaswa.ai (2024-Present)  
 At Kaswa.ai, I am focused on advanced sales analysis using Power BI, applying my skills in data cleaning, visualization, and BI tool utilization to drive business intelligence. I am proficient in SQL, Excel, and Python, and have a solid foundation in sales, e-commerce, and healthcare analytics.
