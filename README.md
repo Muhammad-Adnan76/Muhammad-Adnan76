@@ -1,41 +1,27 @@
 
 
-**Muhammad Adnan**  
+*Muhammad Adnan*  
 **Data Analyst**  
 
-I am an experienced data analyst with over a year of hands-on experience in data science and analytics, I have completed a Bachelor's degree in Computer Science. My expertise lies in data analysis, visualization, BI development, and statistical analysis.
+Hi there 👋 Welcome to my profile!
+I am Muhammad Adnan, a Data Analyst and Business Intelligence Developer passionate about transforming raw data into actionable insights.
 
-📊 **Current Role**: Data Analyst/BI Developer at Kaswa.ai (2024-Present)  
-At Kaswa.ai, I am focused on advanced sales analysis using Power BI, applying my skills in data cleaning, visualization, and BI tool utilization to drive business intelligence. I am proficient in SQL, Excel, and Python, and have a solid foundation in sales, e-commerce, and healthcare analytics.
+About Me 💻 📊
+I have over a year of experience using Python, Power BI, and SQL for data extraction, wrangling, cleaning, transformation, modeling, analysis, and visualization.
 
-🔍 **Internship Experience**: Data Analyst/BI Developer Internship at Kaswa.ai (2023-2024)  
-During my internship, I gained valuable experience in data analysis, customer behavior insights, and industry-specific metrics across sales, healthcare, and e-commerce domains.
+Hands-on Expertise:
+Microsoft Excel, Power BI (Power Query and DAX), Tableau (VisQL, Tableau Prep) for data reporting and dashboard development.
+Python libraries like Pandas, NumPy, Matplotlib, Seaborn, TensorFlow, and Keras for data preprocessing, feature engineering, and building machine learning/deep learning models.
 
-🎓 **Education**: Bachelor of Science in Computer Science, Virtual University of Pakistan (2020-2024)  
-Grade: B
+Specialization:
+I use Power BI to build interactive reports and dashboards that communicate insights effectively. Check out some of my Power BI projects.
+Current Focus 🎯
 
-🛠️ **Skills**:  
-- MS Excel  
-- SQL  
-- MS Power BI  
-- Data Warehousing  
-- Python  
-- Data Visualization  
-- Django Web Development  
+Currently, I am:
+Working on personal projects to expand my expertise in analytics and business intelligence.
+Creating educational content related to data analysis and BI.
+Open to collaborations and remote contract jobs in data analytics and visualization.
 
-🎓 **Certifications**:  
-- Data Analysis and Visualization with Power BI (Microsoft, 2024)  
-- Data Warehousing and Business Intelligence (University of California, Irvine, 2023)  
-- AI For Everyone (DeepLearning.AI, 2022)  
-- Google Data Analytics Professional Certificate (Google, 2023)
-
-🌐 **Projects**:  
-- **Advance Sales Analysis using Power BI**: Leveraged Power BI for detailed sales analysis to support strategic planning.  
-- **Data Exploration of COVID-19 using SQL**: Conducted a thorough exploration of COVID-19 data, analyzing trends and insights using SQL Server.
 
 📧 [m.adnananwar410@gmail.com](mailto:m.adnananwar410@gmail.com) | 
 🔗 [LinkedIn](https://www.linkedin.com/in/hafiz76/) | 🔗 [GitHub](https://github.com/Muhammad-Adnan76)
-
----
-
-Feel free to adjust any details or formatting to better fit your personal style or specific needs!
