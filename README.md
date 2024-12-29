@@ -1,7 +1,7 @@
 
 
 **Muhammad Adnan**
-*Data Analyst*  
+**Data Analyst**  
 
 Hi there 👋 Welcome to my profile!
 I am Muhammad Adnan, a Data Analyst and Business Intelligence Developer passionate about transforming raw data into actionable insights.
