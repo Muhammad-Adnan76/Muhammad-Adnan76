@@ -24,7 +24,7 @@ I specialize in **Power BI, SQL, Excel, Python**, and **ETL pipelines (SSIS + Me
 | **Data Visualization** | Power BI, Excel (Power Query, Pivot Tables, Charts) |
 | **Data Analysis** | SQL (T-SQL, Joins, CTEs, Window Functions), Python (Pandas, NumPy) |
 | **ETL / Data Engineering** | SSIS, Medallion Architecture, Data Warehouse Design |
-| **Databases** | SQL Server, MySQL |
+| **Databases** | SQL Server |
 | **Other Tools** | DAX, Power Query, Git, Jupyter Notebook |
 
 ---
@@ -43,24 +43,21 @@ I specialize in **Power BI, SQL, Excel, Python**, and **ETL pipelines (SSIS + Me
 
 ## 🏆 Certifications
 
+- 
+- 🎖️ **Microsoft: Data Analysis and Visualization with Power BI** – 2024
+- 🎖️ **UCI: Data Warehousing and Business Intelligence** – 2024
 - 🎖️ **Google Data Analytics Professional Certificate** – 2023  
-- 🎖️ **Microsoft: Data Analysis and Visualization with Power BI** – 2022  
-- 🎖️ **UCI: Data Warehousing and Business Intelligence** – 2023  
 
 ---
 
 ## 📫 Contact
 
-📧 **Email:** your.email@example.com  
+📧 **Email:** [m.adnananwar410@gmail.com](mailto:m.adnananwar410@gmail.com) 
 💼 **Fiverr:** [fiverr.com/hz_adnan](https://www.fiverr.com/hz_adnan)  
-🔗 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/hafiz76/)  
 📂 **Portfolio:** Browse more on [GitHub](https://github.com/Muhammad-Adnan76)  
 
 ---
 
 ⭐ *"Turning raw data into business growth."*
 
-
-
-📧 [m.adnananwar410@gmail.com](mailto:m.adnananwar410@gmail.com) | 
-🔗 [LinkedIn](https://www.linkedin.com/in/hafiz76/) | 🔗 [GitHub](https://github.com/Muhammad-Adnan76)
