@@ -52,10 +52,10 @@ I specialize in **Power BI, SQL, Excel, Python**, and **ETL pipelines (SSIS + Me
 
 ## 📫 Contact
 
-📧 **Email:** [m.adnananwar410@gmail.com](mailto:m.adnananwar410@gmail.com).
-💼 **Fiverr:** [fiverr.com/hz_adnan](https://www.fiverr.com/hz_adnan). 
-🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/hafiz76/) 
-📂 **Portfolio:** Browse more on [GitHub](https://github.com/Muhammad-Adnan76)  
+📧 **Email:** [m.adnananwar410@gmail.com](mailto:m.adnananwar410@gmail.com) 
+💼 **Fiverr:** [fiverr.com/hz_adnan](https://www.fiverr.com/hz_adnan) 
+🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/hafiz76/)  
+📂 **Portfolio:** Browse more on [GitHub](https://github.com/Muhammad-Adnan76) 
 
 ---
 
