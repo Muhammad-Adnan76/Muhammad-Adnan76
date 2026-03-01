@@ -23,7 +23,7 @@ I specialize in **Power BI, SQL, Excel, Python**, and **ETL pipelines (SSIS + Me
 |-----------|----------------------|
 | **Data Visualization** | Power BI, Excel (Power Query, Pivot Tables, Charts) |
 | **Data Analysis** | SQL (T-SQL, Joins, CTEs, Window Functions), Python (Pandas, NumPy) |
-| **ETL / Data Engineering** | SSIS, Medallion Architecture, Data Warehouse Design |
+| **ETL / Data Engineering** | SSIS, Data Bricks, Medallion Architecture, Data Warehouse Design |
 | **Databases** | SQL Server |
 | **Other Tools** | DAX, Power Query, Git, Jupyter Notebook |
 
