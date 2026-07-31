@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Muhammad Adnan  
-### Data Analyst | Power BI & SQL Developer | Excel | Python | ETL Pipelines | Turning Data into Business Insights
+### Data Analyst | Business Intelligence (BI) Developer | Retail, E-commerce & Supply Chain Analytics | SQL Server • Power BI • ETL • Data Warehousing | Building End-to-End Business Intelligence Solutions
 
 Welcome to my GitHub!  
 I’m a **Data Analyst & BI Developer** passionate about transforming raw data into smart, actionable insights.
