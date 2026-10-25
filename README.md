@@ -1,63 +1,186 @@
-# 👋 Hi, I'm Muhammad Adnan  
-### Data Analyst | Business Intelligence (BI) Developer | Retail, E-commerce & Supply Chain Analytics | SQL Server • Power BI • ETL • Data Warehousing | Building End-to-End Business Intelligence Solutions
 
-Welcome to my GitHub!  
-I’m a **Data Analyst & BI Developer** passionate about transforming raw data into smart, actionable insights.
+# Hi, I'm Muhammad Adnan 👋
 
-I specialize in **Power BI, SQL, Excel, Python**, and **ETL pipelines (SSIS + Medallion Architecture)** to help businesses make informed decisions backed by data.
+### Data Analyst | Power BI Developer | Retail, E-commerce & Supply Chain Analytics
 
----
+I help businesses turn raw data into actionable insights through **Power BI dashboards, SQL analysis, Excel reporting, and data modeling**.
 
-## 🚀 About Me
-- 🎓 **BSc in Computer Science**, Virtual University of Pakistan  
-- 🧠 Certified by **Microsoft, Google, and UCI** in Data Analytics, Power BI & Business Intelligence  
-- 📊 Skilled in **data cleaning, modeling, DAX, visualization, and automation**  
-- 🏗️ Experienced in building **Data Warehouses using Medallion Architecture (Bronze, Silver, Gold layers)**  
-- 🌍 Languages: English, Urdu, Hindi  
+My focus is on helping retailers, e-commerce businesses, and operations teams understand sales performance, monitor inventory, analyze profitability, and make better data-driven decisions.
 
----
+- 📊 **Business Intelligence:** Power BI dashboards, KPI reporting, and data visualization
+- 🗄️ **SQL Analytics:** SQL Server, T-SQL, data exploration, and reporting
+- 📈 **Excel Reporting:** Data cleaning, PivotTables, charts, and dashboards
+- 🔄 **ETL & Data Warehousing:** SSIS, data transformation, and dimensional modeling
+- 🛒 **Domain Expertise:** Retail, e-commerce, inventory, and supply chain analytics
+- 📍 **Location:** Pakistan
+- 🌐 **Availability:** Remote opportunities and freelance projects
 
-## 🧩 Technical Skills
-
-| Category | Tools / Technologies |
-|-----------|----------------------|
-| **Data Visualization** | Power BI, Excel (Power Query, Pivot Tables, Charts) |
-| **Data Analysis** | SQL (T-SQL, Joins, CTEs, Window Functions), Python (Pandas, NumPy) |
-| **ETL / Data Engineering** | SSIS, Data Bricks, Medallion Architecture, Data Warehouse Design |
-| **Databases** | SQL Server |
-| **Other Tools** | DAX, Power Query, Git, Jupyter Notebook |
+**My goal:** Make business data easier to understand and use for practical decision-making.
 
 ---
 
-## 📚 Featured Projects
+## 🛠️ Technical Skills
 
-| Project | Description |
-|--------|-------------|
-| 🏭 [Supply Chain ETL – Medallion Architecture](https://github.com/Muhammad-Adnan76/Supply_Chain_ETL-Medallion) | Built an end-to-end ETL pipeline (Bronze, Silver, Gold) and a star schema for advanced supply chain analytics. |
-| 👨‍💼 [HR Data Analytics Dashboard (Power BI)](https://github.com/Muhammad-Adnan76/HR-Data-Analysis-and-Visualization) | Designed an HR dashboard tracking KPIs like turnover rate, performance, and employee demographics. |
-| 📈 [Superstore Sales Forecasting (Power BI)](https://github.com/Muhammad-Adnan76/Superstore-Sales-Analysis-and-Forecasting) | Forecasted future sales trends using DAX measures and Power Query logic for business decision-making. |
-| 🧠 [COVID-19 Data Exploration (SQL)](https://github.com/Muhammad-Adnan76/COVID-19-Data-Exploration-and-Analysis) | Performed SQL-based analysis of COVID-19 cases, deaths, and recovery metrics across global datasets. |
-| 🌦️ [Weather Data Analysis (Python)](https://github.com/Muhammad-Adnan76/Weather-Data-Analysis) | Analyzed weather patterns using Python (Pandas) including wind speed, visibility, and temperature trends. |
-
----
-
-## 🏆 Certifications
-
-- 
-- 🎖️ **Microsoft: Data Analysis and Visualization with Power BI** – 2024
-- 🎖️ **UCI: Data Warehousing and Business Intelligence** – 2024
-- 🎖️ **Google Data Analytics Professional Certificate** – 2023  
+| Category | Technologies & Skills |
+|---|---|
+| Business Intelligence | Power BI, Power Query, DAX, KPI Dashboards |
+| Databases & SQL | SQL Server, T-SQL, Joins, CTEs, Window Functions |
+| Spreadsheet Analytics | Excel, PivotTables, Charts, Data Cleaning |
+| Python Analytics | Python, Pandas, NumPy, Exploratory Data Analysis |
+| ETL & Data Integration | SSIS, ETL Workflows, Data Transformation |
+| Data Warehousing | Star Schema, Fact & Dimension Tables, Medallion Architecture |
+| Business Analytics | Sales, Profitability, Inventory, Trend & Supply Chain Analysis |
+| Development Tools | Git, GitHub, Jupyter Notebook |
 
 ---
 
-## 📫 Contact
+## 🚀 Featured Projects
 
-📧 **Email:** [adnan.datainsight@gmail.com](mailto:adnan.datainsight@gmail.com)
-💼 **Fiverr:** [fiverr.com/hz_adnan](https://www.fiverr.com/hz_adnan)
-🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/hafiz76/) 
-📂 **Portfolio:** Browse more on [GitHub](https://github.com/Muhammad-Adnan76)
+### 1. E-commerce Sales Analysis — Power BI
+
+**Tools:** Power BI, DAX, Power Query
+
+An interactive dashboard project for exploring e-commerce sales performance and presenting key business metrics.
+
+**Focus areas:**
+- Sales and product performance analysis
+- KPI visualization and reporting
+- Business performance monitoring
+
+🔗 [View Project on GitHub](https://github.com/Muhammad-Adnan76/Madhav-Store-Ecommerce-Analysis)
+
+### 2. Superstore Sales Analysis & Forecasting
+
+**Tools:** Power BI, DAX, Power Query
+
+An analytical project exploring historical retail sales data, trends, and forecasting techniques to support business planning.
+
+**Focus areas:**
+- Historical sales trends
+- Product and business performance
+- Forecasting exploration
+
+🔗 [View Project on GitHub](https://github.com/Muhammad-Adnan76/Superstore-Sales-Analysis-and-Forecasting)
+
+### 3. Supply Chain Data Analysis Using SQL
+
+**Tools:** SQL Server, T-SQL
+
+A SQL-based project focused on exploring supply chain data and analyzing operational metrics through queries and aggregations.
+
+**Focus areas:**
+- Data exploration and aggregation
+- SQL-based analytical queries
+- Operational data investigation
+
+🔗 [View Project on GitHub](https://github.com/Muhammad-Adnan76/SupplyChain_SQL_EDA)
+
+### 4. Supply Chain ETL Pipeline & Data Warehouse
+
+**Tools:** SQL Server, SSIS, ETL, Star Schema
+
+A data engineering learning project structured around Bronze, Silver, and Gold layers to organize data transformation and prepare datasets for analytical reporting.
+
+**Focus areas:**
+- Data ingestion and transformation
+- Data quality and preparation
+- Dimensional modeling for analytics
+
+🔗 [View Project on GitHub](https://github.com/Muhammad-Adnan76/Supply_Chain_ETL-Medallion)
+
+### 5. Retail Sales Analysis Using Excel
+
+**Tools:** Microsoft Excel, PivotTables, Slicers, Charts
+
+A retail analytics project using spreadsheet tools to explore sales patterns and summarize business performance.
+
+**Focus areas:**
+- Sales and product analysis
+- PivotTable-based reporting
+- Interactive spreadsheet visualization
+
+🔗 [View Project on GitHub](https://github.com/Muhammad-Adnan76/Vrinda-Store-Data-Analysis)
+
+### 6. Django Point of Sale & Inventory System
+
+**Tools:** Python, Django, HTML, CSS
+
+A point-of-sale and inventory management application project focused on supporting basic retail operations.
+
+**Focus areas:**
+- Sales record management
+- Inventory tracking
+- Retail workflow support
+
+🔗 [View Project on GitHub](https://github.com/Muhammad-Adnan76/Django-based-Point-of-Sale-System)
 
 ---
 
-⭐ *"Turning raw data into business growth."*
+## 💼 Services I Can Help With
 
+I work on practical analytics tasks that help businesses organize their data and understand performance.
+
+- **Power BI Dashboards:** Interactive reports, KPIs, and business performance visualization
+- **SQL Reporting:** Data extraction, joins, aggregations, and analytical queries
+- **Excel Analytics:** Data cleaning, PivotTables, charts, and reporting templates
+- **Sales & E-commerce Analytics:** Sales trends, product performance, and revenue analysis
+- **Retail & Inventory Analytics:** Stock visibility, product movement, and inventory KPIs
+- **Data Preparation:** Cleaning, transforming, and organizing raw datasets
+- **ETL & Data Modeling:** Structured data workflows and analytics-ready data models
+
+**Typical business questions I aim to help answer:**
+
+- Which products and categories generate the most sales?
+- How are sales and profitability changing over time?
+- Which inventory items may need replenishment?
+- Where can business performance be investigated further?
+- How can recurring reports become more consistent and easier to maintain?
+
+---
+
+## 🎯 Industry Focus
+
+- Retail & Wholesale Analytics
+- E-commerce Sales Analytics
+- Inventory & Purchasing Analytics
+- Supply Chain Analytics
+- Business Intelligence & KPI Reporting
+- Data Cleaning & Exploratory Data Analysis
+- Data Modeling & ETL Workflows
+
+---
+
+## 📚 Certifications & Continuous Learning
+
+My professional learning interests include:
+
+- Google Data Analytics Professional Certificate
+- Google Business Intelligence Professional Certificate
+- Querying Microsoft SQL Server 2019
+- Preparing Data for Analysis with Microsoft Excel
+- Data Warehousing and Business Intelligence
+- Python with Power BI: Analyzing Data
+- Databricks for Data Analysts
+- AI for Everyone
+- AI Foundations for Everyone
+
+*Please refer to individual course records for completion and credential details.*
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in collaborating on data analytics projects, Power BI dashboards, SQL reporting, Excel analytics, and remote opportunities.
+
+- 📧 **Email:** [adnan.datainsight@gmail.com](mailto:adnan.datainsight@gmail.com)
+- 💼 **Fiverr:** [View My Freelance Profile](https://www.fiverr.com/hz_adnan)
+- 🔗 **LinkedIn:** [Connect with Me](https://www.linkedin.com/in/hafiz76/)
+- 💻 **GitHub:** [Explore My Repositories](https://github.com/Muhammad-Adnan76)
+
+If you have a business reporting or data analysis challenge, feel free to connect.
+
+---
+
+⭐ **Explore my repositories and projects to see my work in data analytics and business intelligence.**
+
+*Turning Business Data into Actionable Insights with SQL, Power BI & Analytics.*
