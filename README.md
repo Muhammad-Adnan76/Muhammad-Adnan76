@@ -72,17 +72,15 @@ I work on practical analytics tasks that help businesses organize their data and
 
 My professional learning interests include:
 
-- Google Data Analytics Professional Certificate
-- Google Business Intelligence Professional Certificate
-- Querying Microsoft SQL Server 2019
-- Preparing Data for Analysis with Microsoft Excel
-- Data Warehousing and Business Intelligence
-- Python with Power BI: Analyzing Data
-- Databricks for Data Analysts
-- AI for Everyone
-- AI Foundations for Everyone
-
-*Please refer to individual course records for completion and credential details.*
+- **Google Data Analytics Professional Certificate** — Google, Coursera
+- **Google Business Intelligence Professional Certificate** — Google, Coursera
+- **Querying Microsoft SQL Server 2019** — LinkedIn Learning
+- **Preparing Data for Analysis with Microsoft Excel** — Microsoft, Coursera
+- **Data Warehousing and Business Intelligence** — University of California, Irvine (UCI)
+- **Python with Power BI: Analyzing Data** — Coursera
+- **Databricks for Data Analysts** — LinkedIn Learning
+- **AI for Everyone** — DeepLearning.AI, Coursera
+- **AI Foundations for Everyone Specialization** — IBM, Coursera
 
 ---
 
